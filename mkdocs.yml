@@ -1,0 +1,31 @@
+site_name: Carafe
+repo_url: https://github.com/carafe-fm/carafe-docs/
+copyright: Copyright (c) 2018-2019 Soliant Consulting, Inc.
+docs_dir: src
+site_dir: html
+theme: readthedocs
+nav:
+  - Intro: index.md
+  - 'Carafe.FM': carafe-fm/index.md
+  - 'Carafe.fmp12':
+      [
+        'Introduction': carafe-fmp12/introduction.md,
+        'Import and Share': carafe-fmp12/import-and-share.md,
+        'Edit A Bundle': carafe-fmp12/edit.md,
+        'Deploy A Bundle': carafe-fmp12/deploy.md,
+      ]
+  - 'Carafe CodeSandbox':
+      [
+        'Introduction': carafe-codesandbox/introduction.md,
+      ]
+  - 'Carafe Bundle Creator': carafe-bundle-creator/index.md
+  - 'Carafe Bundler CLI': carafe-bundler-cli/index.md
+  - 'Carafe.js': carafe-js/index.md
+  - 'Carafe Bundle Schema': carafe-bundle-schema/index.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition:
+  - def_list:
+  - footnotes:
+
