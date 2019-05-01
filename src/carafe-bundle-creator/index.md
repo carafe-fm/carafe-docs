@@ -11,7 +11,7 @@ You will need to have [Node.js installed](https://nodejs.org/en/download/) to us
 Start a brand new Bundle project in your preferred editor or IDE
 
 ```bash
-npm init @soliantconsulting/carafe-bundle my-new-bundle
+npm init @carafe-fm/bundle my-new-bundle
 cd my-new-bundle
 ```
 
@@ -25,7 +25,7 @@ You can also use the Carafe Bundle Creator to customize or configuring any exist
 To work on an existing Bundle, you should first initialize a new project just like above, but with an appropriate project name for the existing bundle you want to work on.
 
 ```bash
-npm init @soliantconsulting/carafe-bundle my-existing-bundle
+npm init @carafe-fm/bundle my-existing-bundle
 cd my-existing-bundle
 ```
 
