@@ -7,4 +7,4 @@ Carafe Bundler is an NPM package for working with Carafe Bundles outside of the 
 1. It is transpiled into a Browser Tool for rendering and validating Carafe Bundles in browser applications.
 1. It can be packaged into any NPM project and used directly.
 
-If you're interested in more details checkout the [README on GitHub](https://github.com/soliantconsulting/carafe-bundler/blob/master/README.md) for more details.
+If you're interested in more details checkout the [README on GitHub](https://github.com/carafe-fm/carafe-bundler/blob/master/README.md) for more details.

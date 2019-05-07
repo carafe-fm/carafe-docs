@@ -273,4 +273,4 @@ Carafe tooling does not require Bundles to declare a schema. It will duck-type a
 
 It is our intent by defining a schema for Bundles to facilitate stronger interoperability of tools. We encourage community dialog about what the schema definition should be. In draft-01 we have kept the constraints quite loose in an attempt to facilitate maximum interoperability.
 
-Discussion and contributions encouraged in the [Carafe Bundler project on GitHub](https://github.com/soliantconsulting/carafe-bundler/tree/master/schema)
+Discussion and contributions encouraged in the [Carafe Bundler project on GitHub](https://github.com/carafe-fm/carafe-bundler/tree/master/schema)
